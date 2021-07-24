@@ -1,6 +1,6 @@
 import datetime
 
-currentDateTime = datetime.datetime.today()
+currentDateTime = datetime.datetime.now()
 
 print(currentDateTime)
 
